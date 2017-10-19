@@ -2,7 +2,7 @@
 
 ## 预览链接
 
-
+https://harleywang93.github.io/pikachu-pure-css/
 
 ## 预览效果
 
